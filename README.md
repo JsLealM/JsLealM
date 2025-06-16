@@ -6,7 +6,8 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad de Pamplona**  
 - 📍 Desde **Arauca, Colombia**   
 - 🔧 Enfocado en ser un **Desarrollador Backend**, aprendiendo:
-  - ☕ **Java** y **Spring Boot**  
+  - ☕ **Java** y **Spring Boot**
+  - 🐘 **PostgreSQL**
   - ⚡ **Angular** y **TypeScript**  
   - 🎨 **HTML** + **CSS**
 
