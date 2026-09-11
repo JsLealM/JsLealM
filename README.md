@@ -1,27 +1,89 @@
-<h1 align="center">Hola , Soy Johan Leal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Johan Leal 👋</h1>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBkNW1zdDEwdjZpNW12eG4xZjBxNDJuOXc4cnRmZGc1Z2RlM3YyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZtQZXCXd3ICLm/giphy.gif" width="50px"></img> Sobre Mi
+<p align="center">
+  <strong>Systems Engineering Student · Backend Developer</strong>
+</p>
 
-- 🐎 ¡Q' hubo Mano!, Soy Johan Leal <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWxqMHNhcnl2OHk3dmtuOHV5YXllMmdmZmRocWN6YW1ydnpnYjJldSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/q2OyUwyJ7ydiM/giphy.gif" height="400" align="right"/>
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad de Pamplona**  
-- 📍 Desde **Arauca, Colombia**   
-- 🔧 Enfocado en ser un **Desarrollador Backend**, aprendiendo:
-  - ☕ **Java** y **Spring Boot**
-  - 🐘 **PostgreSQL**
-  - ⚡ **Angular** y **TypeScript**  
-  - 🎨 **HTML** + **CSS**
+<p align="center">
+  Systems Engineering student nearing graduation, focused on backend development
+  with Java and Spring Boot. Currently expanding my skills in Angular and
+  full-stack development.
+</p>
 
-- 🧠 Aprendo en la jugada: a veces me tranco, a veces lo arreglo, pero siempre sigo  
-- 🎮 Programar es como un buen juego: con estrategia, paciencia y sin miedo a reiniciar  
-- 🎧 Escucho lo que sea — depende del ánimo, lo importante es que no estorbe
-
-> 💬 _“Nunca es tarde  pa’ empezar de cero, pa’ cambiar de camino o pa’ ser la monda.”_
 ---
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Algunas Estadisticas
+
+## About Me
+
+I enjoy designing and building software with a focus on **clean code, maintainability, data management, and scalable backend solutions**.
+
+My current focus is developing backend applications with **Java and Spring Boot**, while expanding my frontend skills with **Angular and TypeScript**.
+
+I'm continuously improving my technical skills through **personal projects, academic work, and hands-on development**.
+
+- 🎓 Nearing completion of my **Systems Engineering degree**
+- 💻 Focused on **Backend Development**
+- ☕ Developing with **Java & Spring Boot**
+- 🗄️ Working with **PostgreSQL and relational databases**
+- 🌐 Currently learning **Angular & TypeScript**
+- 🚀 Interested in **software architecture, REST APIs, and full-stack development**
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+## What I'm Working On
+
+I'm currently strengthening my backend development skills with **Java and Spring Boot**, while learning **Angular** to build more complete full-stack applications.
+
+My main areas of interest include:
+
+- RESTful API development
+- Backend application architecture
+- Relational database design
+- Software engineering best practices
+- Full-stack application development
+- Clean and maintainable code
+
+---
+
+## GitHub Stats
+
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsLealM&layout=compact&show_icon=true&theme=algolia" alt="JohanLeal"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=JsLealM&layout=compact&show_icon=true&theme=algolia" alt="JohanLeal"/>
+  <a href="https://github.stats...">
+    <img src="https://github-stats-extended.vercel.app/api?username=JsLealM&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.stats...">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JsLealM&layout=compact&langs_count=4&hide_values=true&theme=dark_github" alt="Top Languages" />
+  </a>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JsLealM&theme=algolia&background=0d1117&hide_border=true" />
-</div>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
